@@ -21,16 +21,16 @@ function Home() {
         <h1> Skills </h1>
         <ol className='list'>
           <li className='item'>
-            <h2> Front-End</h2>
-            <span> React, Redux, CSS, React Native</span>
-          </li>
-          <li className='item'>
-            <h2> Back-End</h2>
-            <span> NodeJS, MongoDB, ExpressJS, Flask</span>
-          </li>
-          <li className='item'>
             <h2> Programming Languages</h2>
-            <span>Python, JavaScript, C++, HTML</span>
+            <span>Python, JavaScript, TypeScript, Golang, MySQL, C++, MATLAB, LangChain </span>
+          </li>
+          <li className='item'>
+            <h2> Frameworks & Databases</h2>
+            <span>React, NodeJS, MongoDB, DynamoDB, Express, PostgreSQL, Nextflow, Flask</span>
+          </li>
+          <li className='item'>
+            <h2>Developer Tools</h2>
+            <span>Amazon Web Services (AWS), Docker, Git, Visual Studio, Jupyter, JIRA, Confluence</span>
           </li>
         </ol>
       </div>

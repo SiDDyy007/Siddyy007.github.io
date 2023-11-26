@@ -2,6 +2,7 @@ import React from 'react'
 import {VerticalTimeline, VerticalTimelineElement} from "react-vertical-timeline-component";
 import 'react-vertical-timeline-component/style.min.css';
 import SchoolIcon from "@material-ui/icons/School";
+import WorkIcon from '@mui/icons-material/Work';
 
 function Experience() {
   return (
@@ -26,6 +27,18 @@ function Experience() {
             <p>Bachelors in Computer Engineering </p>
             <p> </p>
         </VerticalTimelineElement>
+
+        <VerticalTimelineElement 
+          className='vertical-timeline-element--education' 
+          date='Jun 2021 - Aug 2021'
+          iconStyle={{background : "#3e497a" , color:"#fff"}}
+          icon={<WorkIcon />}>
+            <h3 className='vertical-timeline-element-title'>Internship Studio</h3>
+            <p>Artificial Intelligence Intern </p>
+            <p> </p>
+        </VerticalTimelineElement>
+
+
         <VerticalTimelineElement 
           className='vertical-timeline-element--education' 
           date='2022 - Present'
@@ -33,6 +46,16 @@ function Experience() {
           icon={<SchoolIcon />}>
             <h3 className='vertical-timeline-element-title'>University of California, Riverside</h3>
             <p>Masters in Computer Engineering </p>
+            <p> </p>
+        </VerticalTimelineElement>
+
+        <VerticalTimelineElement 
+          className='vertical-timeline-element--education' 
+          date='Jun 2023 - Sept 2023'
+          iconStyle={{background : "#3e497a" , color:"#fff"}}
+          icon={<WorkIcon />}>
+            <h3 className='vertical-timeline-element-title'>Helix Genomics</h3>
+            <p>Software Engineer Intern </p>
             <p> </p>
         </VerticalTimelineElement>
       </VerticalTimeline>
