@@ -12,9 +12,9 @@ function Home() {
         <h2>Welcome to Siddhant's Portfolio</h2>
         <div className='prompt'> 
           <p>Passionate Software Engineer and Problem-solver :) </p>
-          <EmailIcon />
-          <LinkedInIcon />
-          <GithubIcon />
+          <a href="mailto:siddhant.poojary@ucr.edu"><EmailIcon /></a>
+          <a href="https://www.linkedin.com/in/sid207/"><LinkedInIcon /></a>
+          <a href="https://github.com/SiDDyy007"><GithubIcon /></a>
         </div>
       </div>
       <div className='skills'> 
