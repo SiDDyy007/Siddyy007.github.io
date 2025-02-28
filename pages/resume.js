@@ -43,7 +43,7 @@ const Resume = () => {
   return (
     <>
       <Head>
-        <title>Sid's Resume</title>
+        <title>Sid&apos;s Resume</title>
       </Head>
       {data.showCursor && <Cursor />}
       <div
