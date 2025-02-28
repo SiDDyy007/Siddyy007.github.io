@@ -1,0 +1,160 @@
+{
+  "name": "Sid",
+  "profileImage" : "/images/profile.JPG",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Siddhant Poojary",
+  "headerTaglineThree": "AI Software Engineer",
+  "headerTaglineFour": "based in Ohio, United States.",
+  "showResume": true,
+  "darkMode": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/SiDDyy007"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/sid207/"
+    },
+    {
+      "id": "3",
+      "title": "Email",
+      "link": "mailto:siddhant.poojary@ucr.edu"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "ExpensAI",
+      "description": "AI Multi-agent powered expense tracker with Smolagents and RAG",
+      "imageSrc": "https://github.com/SiDDyy007/ExpensAI/raw/main/images/ExpensAI_Logo.png",
+      "url": "https://github.com/SiDDyy007/ExpensAI"
+    },
+    {
+      "id": "2",
+      "title": "3D Visualization",
+      "description": "3D visualization of California's road network on Google Earth using Big Data",
+      "imageSrc": "https://www.guideoftheworld.com/wp-content/uploads/2023/11/California-Road-Map-scaled.jpg",
+      "url": "https://github.com/SiDDyy007/3D_Visualization"
+    },
+    {
+      "id": "3",
+      "title": "NYC Collision Analysis",
+      "description": "New York City Taxi Collision Analysis using Spatial data and computing",
+      "imageSrc": "https://publish.purewow.net/wp-content/uploads/sites/2/2018/05/nyc-yellow-taxi-in-times-square-hero.jpg",
+      "url": "https://github.com/SiDDyy007/New-York-City-Collision-Analysis"
+    },
+    {
+      "id": "4",
+      "title": "Hate Speech Detector",
+      "description": "Multi-platform hate speech detector model using DistilBERT and AI",
+      "imageSrc": "https://moqod.com/static/img/hate-speech-01.min.png",
+      "url": "https://github.com/SiDDyy007/Hate_Speech_Detection"
+    },
+    {
+      "id": "5",
+      "title": "Phising Website Detection",
+      "description": "Phising Website Detection using K-Nearest Neighbours and Machine Learning",
+      "imageSrc": "https://elie.net/_astro/what-phishing-sites-look-like-study.B0g30Z1f_2souu0.jpg",
+      "url": "https://github.com/SiDDyy007/Phishing_Websites_Detector_Using_KNN"
+    },
+    {
+      "id": "6",
+      "title": "Real-time Fire Detection",
+      "description": "Fire detection system using CNN and Live Video Feed",
+      "imageSrc": "https://miro.medium.com/v2/da:true/resize:fit:800/1*HVm63Me_kPRNy0vxekCabw.gif",
+      "url": "https://github.com/SiDDyy007/Fire-detection"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "AI & ML Development",
+      "description": "I craft intelligent systems using machine learning and AI, specializing in LLMs, RAG, and NLP to turn data into actionable insights and scalable solutions."
+    },
+    {
+      "id": "2",
+      "title": "Full-Stack Engineering",
+      "description": "I build seamless web applications with modern frameworks like NextJS, React, and FastAPI, delivering intuitive UIs and robust backends tailored to your needs."
+    },
+    {
+      "id": "3",
+      "title": "Cloud Solutions",
+      "description": "I design and deploy scalable, cost-efficient systems on AWS, Vercel, and Kubernetes, optimizing performance for AI-driven and data-intensive projects."
+    },
+    {
+      "id": "4",
+      "title": "Data Pipeline Optimization",
+      "description": "I streamline data workflows with tools like SQL, Pinecone, and distributed computing, ensuring fast, reliable processing for analytics and automation."
+    }
+  ],
+  "aboutpara": "I’m a driven M.S. Computer Engineering graduate from UC Riverside, fueled by a passion for machine learning systems and AI applications. From fine-tuning language models to building full-stack solutions, I love creating technology that bridges the gap between complex data and real-world impact. With a strong foundation in Python, TypeScript, and cloud platforms like AWS, I’m always exploring the latest in generative AI, distributed systems, and scalable web development. My goal is to design innovative, user-focused solutions that solve problems and inspire progress. When I’m not coding, you’ll find me tinkering with new frameworks or diving into tech challenges—always eager to learn and collaborate!",
+  "resume": {
+    "tagline": "👋 I’m a Full Stack AI Software Engineer and problem-solver.",
+    "description": "I blend AI expertise with full-stack development to create impactful, scalable solutions. Proficient in Python, TypeScript, and cloud ecosystems, I’m passionate about pushing the boundaries of ML and web technologies.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "April 2024 - Present",
+        "type": "Full Time",
+        "position": "AI Software Engineer at Satelytics",
+        "bullets": [
+          "Developing AI-driven tools and full-stack applications for data analytics",
+          "Optimizing cloud-based systems for large-scale data processing"
+        ]
+      },
+      {
+        "id": "2",
+        "dates": "June 2023 - September 2023",
+        "type": "Internship",
+        "position": "Software Engineer Intern at Helix Genomics",
+        "bullets": [
+          "Finetuned and deployed LLMs into serverless architectures",
+          "Developed AI Chatbot for research study participants"
+        ]
+      },
+      {
+        "id": "3",
+        "dates": "March 2023 - June 2023",
+        "type": "On-Campus",
+        "position": "Software Consultant at UC Riverside",
+        "bullets": [
+          "Developed research assistant tools for helping graduate students",
+          "Conducted technical workshops on AI and ML"
+        ]
+      }
+    ],
+    "education": {
+      "universityName1": "University of California, Riverside",
+      "universityDate1": "2022-2024",
+      "universityPara1": "Earned an M.S. in Computer Engineering, focusing on machine learning systems, AI applications, and scalable software development. A transformative experience that honed my skills in cutting-edge tech.",
+      "universityName2": "University of Mumbai, India",
+      "universityDate2": "2018-2022",
+      "universityPara2": "Earned an B.S. in Computer Engineering, focusing on data structures, algorithms, and web development. My foundational skills in software development were built through hands-on experience, providing a solid introduction to the field."
+
+    },
+    "languages": [
+      "Python",
+      "TypeScript",
+      "JavaScript",
+      "Go"
+    ],
+    "frameworks": [
+      "NextJS",
+      "React",
+      "FastAPI",
+      "TensorFlow",
+      "PyTorch",
+      "LangChain"
+    ],
+    "others": [
+      "AWS",
+      "Vercel",
+      "Docker",
+      "Kubernetes",
+      "Pinecone"
+    ]
+  }
+}
