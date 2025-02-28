@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "export": "next build && next export",
-    "deploy": "next build && next export && touch out/.nojekyll && gh-pages -d out --dotfiles"
+    "deploy": "next build && next export && touch out/.nojekyll && gh-pages -d out"
   },
   "dependencies": {
     "@headlessui/react": "^1.6.6",

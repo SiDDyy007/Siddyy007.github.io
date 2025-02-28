@@ -1,12 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-}
-
-module.exports = {
   images: {
     unoptimized: true,
   },
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/{Siddyy007.github.io}' : '',
-  basePath: process.env.NODE_ENV === 'production' ? '/{Siddyy007.github.io}' : '',
+  output: 'export',  // Add this for static exports in Next.js 13+
 }
+
+module.exports = nextConfig;
